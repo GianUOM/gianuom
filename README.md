@@ -10,7 +10,7 @@ I'm a student with a passion for building practical solutions with code. My focu
 
 - 💬 **Ask me about:** My research in my thesis and other project listed in my profile plus any job/project opportunities.
 
-- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/gianluca-aquilina-682a64373/).
+- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-aquilina-682a64373/).
 
 
 
