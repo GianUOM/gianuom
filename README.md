@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Gianluca 👋
 
-<!--
-**GianUOM/gianuom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student with a passion for building practical solutions with code. My focus is on machine learning, computer vision, and data science. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **My most recent project completion:** My Final Year Project, "[Handball Action Recognition and Highlight Generation](https://github.com/GianUOM/Gianluca-Aquilina-348904L-Thesis)". This project uses computer vision and deep learning models like YOLOv12 to detect, track, and classify player actions in handball videos, thereofre creating highlight reels.
+
+- 🌱 **I’m currently learning:** More about the side of Data Science as will be undertaking a course in 2025-2026 in University of Bath in the UK.
+
+- 💬 **Ask me about:** My research in action recognition and any job/project opportunities.
+
+- 📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-url).
+
+
+
